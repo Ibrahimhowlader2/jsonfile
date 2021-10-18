@@ -1,0 +1,66 @@
+[
+    {
+      "id":1,
+      "title": "Dental Care",
+      "description": "Aorem Ipsumea dummy texte printing setting detry bringin eight challenges faced. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipiscing. Aliquam class bibendum mattis fusceut persecenas. Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque.Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque.Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipiscing. Aliquam classbibendum mattis fusceut persecenas. Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattisfusceut perspiciatis undeuisque.",
+      "advantage": "Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et dipiscing. Aliquam classbibendum mattis fusceut persecenas. Quisque. Maecenas. Eros mus.Hymenaeos eros. Nisi mauris et adipisc.-",
+      "services_photo": "https://i.ibb.co/yhCjHPB/Services-4.png",
+      "service_photo":"https://i.ibb.co/P6HXM3b/pexels-cedric-fauntleroy-4269931-1.jpg"
+    },
+    {
+      "id":2,
+      "title": "Eye Care",
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+      "advantage": "Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et dipiscing. Aliquam classbibendum mattis fusceut persecenas. Quisque. Maecenas. Eros mus.Hymenaeos eros. Nisi mauris et adipisc.-",
+      "services_photo": "https://i.ibb.co/28pYJBT/Services-3.png",
+      "service_photo":"https://i.ibb.co/vdMBQDH/image-1-1.jpg"
+    },
+    {
+      "id":3,
+      "title": "Medicine",
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+      "advantage": "Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et dipiscing. Aliquam classbibendum mattis fusceut persecenas. Quisque. Maecenas. Eros mus.Hymenaeos eros. Nisi mauris et adipisc.-",
+      "services_photo": "https://i.ibb.co/CmxJMm2/Services-2.png",
+      "service_photo":"https://i.ibb.co/4Vwzw7h/medicine.jpg"
+    },
+    {
+      "id":4,
+      "title": "Cardiology",
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+      "advantage": "Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et dipiscing. Aliquam classbibendum mattis fusceut persecenas. Quisque. Maecenas. Eros mus.Hymenaeos eros. Nisi mauris et adipisc.-",
+      "services_photo": "https://i.ibb.co/8P38ctd/Services-6.png",
+      "service_photo":"https://i.ibb.co/1zLtP97/what-is-a-cardiologist-web-1.jpg"
+    },
+    {
+      "id":5,
+      "title": "Orthopedic",
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+      "advantage": "Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et dipiscing. Aliquam classbibendum mattis fusceut persecenas. Quisque. Maecenas. Eros mus.Hymenaeos eros. Nisi mauris et adipisc.-",
+      "services_photo": "https://i.ibb.co/nk5tRjg/Services-5.png",
+      "service_photo":"https://i.ibb.co/bKDJMsZ/shutterstock-276800108-1.jpg"
+    },
+    {
+      "id":6,
+      "title": "Hepatology",
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+      "advantage": "Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et dipiscing. Aliquam classbibendum mattis fusceut persecenas. Quisque. Maecenas. Eros mus.Hymenaeos eros. Nisi mauris et adipisc.-",
+      "services_photo": "https://i.ibb.co/wWN0Dvh/Services-8.png",
+      "service_photo":"https://i.ibb.co/60K9WmC/HEPATOLOGY-1.jpg"
+    },
+    {
+      "id":7,
+      "title": "Gynecology",
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+      "advantage": "Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et dipiscing. Aliquam classbibendum mattis fusceut persecenas. Quisque. Maecenas. Eros mus.Hymenaeos eros. Nisi mauris et adipisc.-",
+      "services_photo": "https://i.ibb.co/VpJSptY/Services-7.png",
+      "service_photo":"https://i.ibb.co/tbC7F14/Gynecology.jpg"
+    },
+    {
+      "id":8,
+      "title": "Pediatrics",
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+      "advantage": "Quisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et adipisc iquam class bibendum non mattis fusceut perspiciatis undeuisque. Maecenas. Eros mus. Hymenaeos eros. Nisi mauris et dipiscing. Aliquam classbibendum mattis fusceut persecenas. Quisque. Maecenas. Eros mus.Hymenaeos eros. Nisi mauris et adipisc.-",
+      "services_photo": "https://i.ibb.co/1T9r8YM/Services-1.png",
+      "service_photo":"https://i.ibb.co/tbC7F14/Gynecology.jpg"
+    }
+  ]

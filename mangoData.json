@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Alphonso Mango",
+    "imgUrl": "https://i.ibb.co/84g2cwJ/alphonso-mango.png",
+    "price": 14.53,
+    "weight": "500 gr",
+    "liked": true,
+    "save": "Save 10%",
+    "desc": "A mango is an edible stone fruit produced by the tropical tree Mangifera indica which is believed to have originated from the region between northwestern Myanmar, Bangladesh, and northeastern India."
+  },
+  {
+    "name": "Badami Mango",
+    "imgUrl": "https://i.ibb.co/k00Y7p3/badami-mango.png",
+    "price": 12.55,
+    "weight": "500 gr",
+    "liked": false,
+    "desc": "A mango is an edible stone fruit produced by the tropical tree Mangifera indica which is believed to have originated from the region between northwestern Myanmar, Bangladesh, and northeastern India."
+  },
+  {
+    "name": "Fresh Mango",
+    "imgUrl": "https://i.ibb.co/mFgZ2qF/fresh-mango.png",
+    "price": 19.6,
+    "liked": false,
+    "weight": "500 gr",
+    "save": "Save 10%",
+    "desc": "A mango is an edible stone fruit produced by the tropical tree Mangifera indica which is believed to have originated from the region between northwestern Myanmar, Bangladesh, and northeastern India."
+  },
+  {
+    "name": "Yummy Mango",
+    "imgUrl": "https://i.ibb.co/h8WPyv6/yummy-mango.png",
+    "price": 21.5,
+    "weight": "500 gr",
+    "liked": true,
+    "desc": "A mango is an edible stone fruit produced by the tropical tree Mangifera indica which is believed to have originated from the region between northwestern Myanmar, Bangladesh, and northeastern India."
+  }
+]

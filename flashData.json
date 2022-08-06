@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Kale",
+    "imgUrl": "https://i.ibb.co/0tTm6Mp/kale.png",
+    "price": 14.53,
+    "weight": "500 gr",
+    "liked": false,
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "name": "Cabbage",
+    "imgUrl": "https://i.ibb.co/N6JxfF5/cabbage.png",
+    "price": 12.55,
+    "liked": true,
+    "weight": "500 gr",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "name": "Fresh Mango",
+    "imgUrl": "https://i.ibb.co/mFgZ2qF/fresh-mango.png",
+    "price": 19.6,
+    "weight": "500 gr",
+    "liked": true,
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "name": "Yummy Mango",
+    "imgUrl": "https://i.ibb.co/h8WPyv6/yummy-mango.png",
+    "price": 21.5,
+    "weight": "500 gr",
+    "liked": false,
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  }
+]
